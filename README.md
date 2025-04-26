@@ -109,7 +109,7 @@ Node.js (v18+ recommended)
 npm or yarn
 
 # Clone the repository
-git clone https://github.com/your-username/gatherly.git
+https://github.com/GunjanJ2027/GunjanJ2027-Gunjan_Joshi_CSE-A_Gatherly.git
 
 cd gatherly
 
