@@ -2,6 +2,18 @@
 
 Gatherly is a scalable and responsive event management platform built with React 18, TypeScript, and Tailwind CSS. It offers seamless authentication, event booking, and admin/user dashboards, optimized for a smooth and intuitive user experience.
 
+# Team Details
+
+Gunjan Joshi (2301010062)
+
+Arman (2301010037)
+
+Anup Singh (2301010053)
+
+Keshav (2301010054)
+
+ 🎥 [Watch Gatherly Demo Video](https://drive.google.com/file/d/1NGq63CqlQH0OGHLIHj8oDuMhw0Tm-oTa/view?usp=sharing)
+
 
 # ✨ Features
 
@@ -114,10 +126,13 @@ npm run dev
 # or
 yarn dev
 
+
 The app will be available at https://comfy-lokum-d52302.netlify.app/
 
 
+
 # 📸 Screenshots
+
 
 <img width="961" alt="ggg1" src="https://github.com/user-attachments/assets/8fb250e0-6328-4a1d-a633-a7b80093e21a" />
 
